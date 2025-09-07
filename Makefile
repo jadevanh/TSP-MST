@@ -1,4 +1,4 @@
-## EECS 281 Advanced Makefile
+
 
 # How to use this Makefile...
 ###################
@@ -16,16 +16,6 @@
 #      specified in the PROJECTFILE variable.
 #   3. Files you want to include in your final submission cannot match the
 #      test*.cpp pattern.
-
-#######################
-# TODO (begin) #
-#######################
-# Change 'youruniqname' to match your UM uniqname (no quote marks).
-UNIQNAME    = jadev
-
-# Change the right hand side of the identifier to match the project identifier
-# given in the project or lab specification.
-IDENTIFIER  = 1761414855B69983BD8035097EFBD312EB0527F0
 
 # Change 'executable' to match the command name given in the project spec.
 EXECUTABLE  = drone
