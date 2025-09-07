@@ -1,7 +1,4 @@
-We've included the test from the project specification,
-spec-test.txt, along without output for all three modes.
-
-There are several other input files: sample-ab.txt, sample-c.txt,
+There are several input files: sample-ab.txt, sample-c.txt,
 sample-d.txt, sample-e.txt, and sample-f.txt.
   sample-ab.txt has 10000 vertices, sample-c.txt and sample-d.txt
   each have 30, sample-e.txt has 11 vertices.
