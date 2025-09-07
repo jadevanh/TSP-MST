@@ -1,4 +1,3 @@
-// Project Identifier: 1761414855B69983BD8035097EFBD312EB0527F0
 
 #include <getopt.h>
 #include <cstdlib>
